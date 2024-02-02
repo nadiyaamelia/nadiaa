@@ -55,10 +55,8 @@
   }
   
   .kiri {
-    width: 400px;
     float: left;
     background-color: #dcd3ff;
-    padding: 20px;
     box-sizing: border-box;
   }
   

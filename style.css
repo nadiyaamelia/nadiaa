@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  .utama {
+    max-width: 1080px;
+    margin: 20px;
+    background-color: white;
+    padding: 15px;
+    overflow: hidden;
+  }
+  
+  header {
+    background-color:white;
+    color: black;
+    width: 100vw;
+    height: 8vh;
+    padding: 20px;
+  }
+  
+  nav {
+    width: 100vw;
+    height: 8vh;
+    background-color: rgb(199, 207, 175);
+  }
+  
+  ul {
+    display: flex;
+    width: 50%;
+    height: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(35, 60, 199);
+  }
+  
+  .banner {
+    margin-bottom: 800px;
+  }
+  
+  .banner img {
+    display: block;
+    width: 2000px;
+    height: 480px;
+  }
+  
+  .kiri {
+    width: 400px;
+    float: left;
+    background-color: #dcd3ff;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  
+  
+  table {
+    width: 100vw;
+  }
+  
+  td {
+    height: 30vh;
+  }
+  
+  table,
+  td,
+  tr {
+    border: 2px solid;
+  }
+  
+  img {
+    width: 1000px;
+    height: 70vh;
+  }
+  
+  h3 {
+    margin: 0 10px;
+  }
+  
+  p {
+    margin: 0px 10px 10px 10px;
+  }
+  
+  h5 {
+    text-align: center;
+  }
